@@ -1,2 +1,2 @@
 # My-Projects
-These are Python and Data Science projects.
+These are Python and Data Analysis projects.
